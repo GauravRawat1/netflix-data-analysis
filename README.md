@@ -207,24 +207,6 @@ Potential improvements for future versions:
 
 ---
 
-## 📁 Project Structure
-Netflix-Data-Analysis/
-│
-├── Data
-│ ├── netflix_titles.csv
-├── netflix_analysis.py
-├── README.md
-│
-├── charts/
-│ ├── movies_vs_tvshows.png
-│ ├── content_growth.png
-│ ├── top_countries.png
-│ ├── ratings_distribution.png
-│ ├── genre_analysis.png
-│ ├── release_year_distribution.png
-│ ├── content_age_distribution.png
-│ └── decade_analysis.png
-
 ## 👨‍💻 Author
 
 ### Gaurav Rawat
